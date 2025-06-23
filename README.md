@@ -34,7 +34,7 @@ Este artículo científico presenta:
 - Los **resultados obtenidos**, incluyendo una precisión superior al 95% en la clasificación de gestos.
 - Las **conclusiones y recomendaciones** para futuras mejoras del sistema.
 
-📥 [Descargar documento del proyecto ](Documents/Control-por-Gestos-Basado-en-Vision-Artificial.pdf)
+📥 📥 [Descargar documento del proyecto](https://github.com/mickychog/control_por_gestos/raw/main/Documents/Control-por-Gestos-Basado-en-Vision-Artificial.pdf)
 
 ## ¿Cómo Funciona el Proyecto? 🤔
 
