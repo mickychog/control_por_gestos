@@ -10,7 +10,31 @@ El proyecto "Control por Gestos Basado en Visión Artificial" tiene como objetiv
 - **Carrera:** Ingeniería en Ciencias de la Computación
 - **Universidad:** Universidad Mayor Real y Pontificia San Francisco Xavier de Chuquisaca
 - **Materia:** SIS330 Desarrollo de Aplicaciones Inteligentes
+- **Semestre:** Septimo
 - **Docente:** Ing. Walter Pacheco
+
+## 📬 Contacto
+
+📌 Encuéntrame en:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-choque-garcia/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mickychog)
+
+📧 **Correo:** [choque.garcia.miguelangel@usfx.bo](mailto:choque.garcia.miguelangel@usfx.bo)
+
+## 📚 Artículo Científico Final
+
+📄 El documento completo del proyecto se encuentra en la carpeta `Documents\Control-por-Gestos-Basado-en-Vision-Artificial.pdf`.
+
+Este artículo científico presenta:
+
+- Un **resumen ejecutivo** del sistema de control por gestos.
+- Una descripción detallada de la **metodología**, basada en técnicas de visión artificial y aprendizaje profundo.
+- Los **resultados obtenidos**, incluyendo una precisión superior al 95% en la clasificación de gestos.
+- Las **conclusiones y recomendaciones** para futuras mejoras del sistema.
+
+📥 [Descargar documento del proyecto ](Documents\Control-por-Gestos-Basado-en-Vision-Artificial.pdf)
 
 ## ¿Cómo Funciona el Proyecto? 🤔
 
@@ -205,10 +229,7 @@ Queda prohibida su reproducción total o parcial sin el consentimiento explícit
 
 > _Este proyecto tiene fines académicos. Puede ser utilizado con fines de estudio, investigación y enseñanza siempre que se cite correctamente._
 
-## 📬 Contacto
+## 📜 Licencia
 
-📌 Encuéntrame en:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-choque-garcia/)
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mickychog)
+Este proyecto está bajo la [Licencia MIT](LICENSE).  
+Puedes usarlo, modificarlo y distribuirlo libremente, siempre que incluyas la debida atribución al autor original.
