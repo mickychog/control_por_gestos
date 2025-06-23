@@ -55,7 +55,7 @@ Todo este proceso ocurre en tiempo real, lo que significa que no hay retrasos pe
 
 ¡Y eso es todo! 🎉 Ahora ya sabes cómo funciona este proyecto de Control por Gestos Basado en Visión Artificial. Espero que te haya gustado y que te animes a probarlo. ¡Diviértete interactuando con tu computadora de una manera completamente nueva! 🚀
 
-![Ejemplo](images/ejemplo.png)
+<img src="images/ejemplo.png" alt="Ejemplo" width="700" height="450"/>
 
 ## 🛠️ Tecnologías Utilizadas:
 
@@ -189,11 +189,11 @@ control_por_gestos/
 - FIST (Puño cerrado): Sin acción asignada (neutral).
 - PALM (Mano abierta): Sin acción asignada (neutral).
 - CALL (Pulgar y meñique extendidos, los demás doblados): Sin acción asignada (neutral).
-  ![Gestos](images/gestures.jpg)
+  <img src="images/gestures.jpg" alt="Gestos" width="900" height="350"/>
 
 ## 🎥 Demostración
 
-<video src="video/demo.mp4" width="640" height="360" controls></video>
+<img src="images/demo.gif" alt="Demostracion" width="720" height="400"/>
 
 ## © Declaratoria de Autoría
 
