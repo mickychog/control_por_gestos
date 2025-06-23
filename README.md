@@ -25,7 +25,7 @@ El proyecto "Control por Gestos Basado en Visión Artificial" tiene como objetiv
 
 ## 📚 Artículo Científico Final
 
-📄 El documento completo del proyecto se encuentra en la carpeta `Documents\Control-por-Gestos-Basado-en-Vision-Artificial.pdf`.
+📄 El documento completo del proyecto se encuentra en la carpeta `Documents/Control-por-Gestos-Basado-en-Vision-Artificial.pdf`.
 
 Este artículo científico presenta:
 
@@ -34,7 +34,7 @@ Este artículo científico presenta:
 - Los **resultados obtenidos**, incluyendo una precisión superior al 95% en la clasificación de gestos.
 - Las **conclusiones y recomendaciones** para futuras mejoras del sistema.
 
-📥 [Descargar documento del proyecto ](Documents\Control-por-Gestos-Basado-en-Vision-Artificial.pdf)
+📥 [Descargar documento del proyecto ](Documents/Control-por-Gestos-Basado-en-Vision-Artificial.pdf)
 
 ## ¿Cómo Funciona el Proyecto? 🤔
 
